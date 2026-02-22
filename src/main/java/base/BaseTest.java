@@ -48,6 +48,7 @@ public class BaseTest {
         		options.addArguments("--headless=new");
         	}
         	
+        	options.addArguments("--window-size=1920,1080");
         	options.addArguments("--guest");
         	options.addArguments("--disable-notifications");
         	options.addArguments("--disable-infobars");
