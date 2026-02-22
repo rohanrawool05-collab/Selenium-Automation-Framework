@@ -10,6 +10,7 @@ public class LoginPage extends BasePage {
     By username = By.id("user-name");
     By password = By.id("password");
     By loginBtn = By.cssSelector(".submit-button");
+    private By logBtn = By.id("login-button");
 
     public LoginPage(WebDriver driver) {
         super(driver);
@@ -20,6 +21,12 @@ public class LoginPage extends BasePage {
         type(password,pass);
         click(loginBtn);
         return new ProductPage(driver);
+    }
+    
+ 
+
+    public boolean isLoginButtonDisplayed() {
+        return isDisplayed(logBtn);
     }
 }
 

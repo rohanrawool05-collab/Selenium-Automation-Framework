@@ -9,6 +9,14 @@ public class ProductPage extends BasePage{
 
     By products = By.cssSelector(".inventory_item");
     By cart = By.cssSelector(".shopping_cart_link");
+    private By menuBtn = By.id("react-burger-menu-btn");
+    private By logoutLink = By.id("logout_sidebar_link");
+
+    public LoginPage logout() {
+        click(menuBtn);
+        click(logoutLink);
+        return new LoginPage(driver);
+    }
 
     public ProductPage(WebDriver driver) {
         super(driver);
