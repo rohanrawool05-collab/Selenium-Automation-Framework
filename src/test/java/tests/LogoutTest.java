@@ -13,7 +13,7 @@ public class LogoutTest extends BaseTest {
     @Test(dataProvider = "loginData",
           dataProviderClass = TestDataProviders.class,
           retryAnalyzer = utils.RetryAnalyzer.class,
-        
+          )
     public void logoutTest(String username, String password) {
 
         ProductPage productPage =
