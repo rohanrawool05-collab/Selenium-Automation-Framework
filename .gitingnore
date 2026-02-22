@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# TestNG reports
+test-output/
+
+# Extent reports
+reports/
+
+# Chrome temp profile
+tmp-profile/
+
+# IDE
+.idea/
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
