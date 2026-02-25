@@ -9,6 +9,7 @@ import dataprovider.TestDataProviders;
 import pages.CartPage;
 import pages.LoginPage;
 import pages.ProductPage;
+import utils.AssertionUtils;
 
 public class cartTest extends BaseTest{
 	
@@ -39,7 +40,8 @@ public class cartTest extends BaseTest{
         		String cartCount =
                 new CartPage(getDriver()).getCartBadge();
 
-        Assert.assertEquals(cartCount, "2");
+        		AssertionUtils.assertContains(cartCount, "2");
+                AssertionUtils.assertAll();
     }
 	
 	

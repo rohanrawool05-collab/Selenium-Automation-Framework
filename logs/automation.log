@@ -1,0 +1,852 @@
+2026-02-23 19:49:15 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 19:49:16 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:49:20 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 19:49:20 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 19:49:20 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:49:20 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 19:49:20 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 19:49:21 [main] INFO  base.BaseTest - Launching browser
+2026-02-23 19:49:21 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:49:23 [main] INFO  pages.LoginPage - Entering username
+2026-02-23 19:49:23 [main] INFO  pages.LoginPage - Entering password
+2026-02-23 19:49:23 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:49:23 [main] INFO  pages.LoginPage - Login successful
+2026-02-23 19:49:23 [main] INFO  base.BaseTest - Closing browser
+2026-02-23 19:49:23 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 19:49:23 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:49:25 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 19:49:25 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 19:49:26 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:49:26 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 19:49:26 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:28 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:28 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:28 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:28 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:28 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:29 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:29 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:29 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:29 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:29 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:33 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:35 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:36 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:36 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:37 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:37 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:37 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:37 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:37 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:37 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:37 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:38 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:38 [TestNG-test-All Tests Parallel-1] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:38 [TestNG-test-All Tests Parallel-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:38 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:38 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:38 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:39 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:40 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:41 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:41 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:41 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:41 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:42 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:42 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:42 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:42 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:42 [TestNG-test-All Tests Parallel-1] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:42 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:43 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:43 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:43 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:43 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:43 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:43 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:43 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:43 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:44 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:44 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:44 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:45 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:46 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:46 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:46 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:46 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:46 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:46 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:47 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:47 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Launching browser
+2026-02-23 19:50:47 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 19:50:47 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:47 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 19:50:49 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering username
+2026-02-23 19:50:49 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering password
+2026-02-23 19:50:49 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Clicking login button
+2026-02-23 19:50:49 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Login successful
+2026-02-23 19:50:50 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Closing browser
+2026-02-23 20:06:17 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:06:20 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:06:23 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:06:23 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:06:23 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:06:23 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:06:23 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:06:24 [main] INFO  base.BaseTest - Launching browser
+2026-02-23 20:06:24 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:06:26 [main] INFO  pages.LoginPage - Entering username
+2026-02-23 20:06:26 [main] INFO  pages.LoginPage - Entering password
+2026-02-23 20:06:26 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:06:26 [main] INFO  pages.LoginPage - Login successful
+2026-02-23 20:06:26 [main] INFO  base.BaseTest - Closing browser
+2026-02-23 20:06:26 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:06:26 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:06:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:06:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:06:29 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:06:29 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:06:29 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:16:21 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:16:24 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:16:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:16:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:16:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:16:29 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:16:29 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:16:29 [main] INFO  base.BaseTest - Launching browser
+2026-02-23 20:16:29 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:16:31 [main] INFO  pages.LoginPage - Entering username
+2026-02-23 20:16:32 [main] INFO  pages.LoginPage - Entering password
+2026-02-23 20:16:32 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:16:32 [main] INFO  pages.LoginPage - Login successful
+2026-02-23 20:16:32 [main] INFO  base.BaseTest - Closing browser
+2026-02-23 20:16:32 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:16:32 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:16:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:16:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:16:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:16:35 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:16:35 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:23:52 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:23:53 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:23:56 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:23:56 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:23:57 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:23:57 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:23:57 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:23:57 [main] INFO  base.BaseTest - Launching browser
+2026-02-23 20:23:57 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:23:59 [main] INFO  pages.LoginPage - Entering username
+2026-02-23 20:23:59 [main] INFO  pages.LoginPage - Entering password
+2026-02-23 20:23:59 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:23:59 [main] INFO  pages.LoginPage - Login successful
+2026-02-23 20:24:00 [main] INFO  base.BaseTest - Closing browser
+2026-02-23 20:24:00 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:24:00 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:24:02 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:24:02 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:24:02 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:24:02 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:24:02 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:26:12 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:26:12 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:26:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:26:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:26:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:26:16 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:26:16 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:26:16 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:26:16 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:26:18 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:26:19 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:26:19 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:26:19 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:26:19 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:26:19 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:26:19 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:26:21 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:26:21 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:26:22 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:26:22 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:26:22 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:30:52 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:30:52 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:30:52 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Launching browser
+2026-02-23 20:30:52 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:30:52 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:30:53 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:30:53 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:30:53 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:30:53 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:30:53 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:30:58 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:30:59 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:30:59 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:30:59 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:30:59 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering username
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:00 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:00 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:01 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:01 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:01 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:01 [TestNG-test-All Tests Parallel-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:31:01 [TestNG-test-All Tests Parallel-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:31:02 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:31:02 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:31:03 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:04 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:04 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Launching browser
+2026-02-23 20:31:04 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:31:04 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:31:05 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:31:05 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:05 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:05 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:05 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:05 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:05 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:06 [TestNG-test-All Tests Parallel-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:06 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:06 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:31:06 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:31:06 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:31:07 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:31:07 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering username
+2026-02-23 20:31:07 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:08 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:09 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:09 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:31:09 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:31:10 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:10 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:10 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:10 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:10 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:10 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:10 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:10 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:11 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Launching browser
+2026-02-23 20:31:11 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:31:11 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:13 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering username
+2026-02-23 20:31:13 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:13 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:13 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:15 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:16 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:31:17 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:31:17 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:31:19 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:31:19 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:31:19 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:31:19 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:31:20 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:32:54 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Launching browser
+2026-02-23 20:32:54 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:32:54 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:32:54 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:32:54 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:32:54 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:32:54 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:32:54 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:32:54 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:32:54 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:32:59 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:32:59 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:32:59 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:32:59 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:00 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:01 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:02 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:02 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:02 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:02 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:02 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:02 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:03 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:03 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:03 [TestNG-test-All Tests Parallel-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:33:03 [TestNG-test-All Tests Parallel-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:33:04 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:33:04 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:33:04 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:04 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Launching browser
+2026-02-23 20:33:04 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:04 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:33:06 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:06 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:07 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:07 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:07 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:07 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:07 [TestNG-test-All Tests Parallel-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:07 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:08 [TestNG-test-All Tests Parallel-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:08 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:08 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:08 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:08 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:33:08 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:33:08 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:08 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:33:08 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:33:08 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:11 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:11 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Launching browser
+2026-02-23 20:33:11 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:33:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:12 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:12 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:12 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:13 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:14 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:14 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:14 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:14 [TestNG-test-All Tests Parallel-3] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:15 [TestNG-test-All Tests Parallel-3] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:28 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:33:28 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:33:28 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:33:28 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-23 20:33:29 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:33:29 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:33:29 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:33:29 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-23 20:33:32 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:33 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:33 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:33 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:33 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:33 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:33 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-23 20:33:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-23 20:33:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-23 20:33:34 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-23 20:33:35 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:35 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:35 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-23 20:33:35 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:03 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:06 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:12 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:12 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:12 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:14 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:14 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:14 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:14 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:15 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:15 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:15 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:17 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:17 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:17 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:17 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:18 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:18 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:18 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:20 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:20 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:20 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:20 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:21 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:22 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:22 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:23 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:24 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:24 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:24 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:25 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:25 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:25 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:27 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:27 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:28 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:28 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:29 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:29 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:29 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:33 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:33 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:33 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:35 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:36 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:36 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:36 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:38 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:38 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:38 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:38 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:38 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:39 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:39 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:41 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:41 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:41 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:41 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:41 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:41 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:41 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:43 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:44 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:44 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:44 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:45 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:45 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:45 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:47 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:47 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:47 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:48 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:48 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:48 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:48 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:50 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:50 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:50 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:51 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:51 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:51 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:51 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:53 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:53 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:53 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:54 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:54 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:47:54 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:47:54 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:47:56 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:47:56 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:47:56 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:47:56 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:47:57 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:19 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:20 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:23 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:23 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:23 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:24 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:24 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:24 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:26 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:26 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:27 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:27 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:27 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:27 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:27 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:29 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:29 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:29 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:30 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:30 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:30 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:30 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:32 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:32 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:33 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:33 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:34 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:34 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:34 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:36 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:36 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:36 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:37 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:38 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:38 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:38 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:40 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:41 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:41 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:41 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:42 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:42 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:42 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:44 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:45 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:45 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:45 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:46 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:46 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:46 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:49 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:49 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:49 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:49 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:49 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:50 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:50 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:51 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:52 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:52 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:52 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:52 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:52 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:52 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:54 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:54 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:55 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:55 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:55 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:55 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:55 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:53:57 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:53:57 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:53:57 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:53:57 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:53:58 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:53:59 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:53:59 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:54:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:54:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:54:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:54:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:54:01 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:54:01 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:54:01 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:54:03 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:54:03 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:54:04 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:54:04 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:54:04 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:54:04 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:54:04 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:54:06 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:54:06 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:54:07 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:54:07 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:54:07 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:54:07 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:54:07 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:54:09 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:54:09 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:54:09 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:54:10 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:54:10 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:58:10 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:58:10 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:58:22 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:58:22 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:58:22 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:58:22 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:58:23 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:58:23 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:58:23 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:58:26 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:58:26 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:58:26 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:58:26 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:58:27 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:58:27 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:58:27 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:58:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:58:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:58:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:58:32 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:58:32 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:58:32 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:58:32 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:58:36 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:58:36 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:58:37 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:58:37 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:58:38 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:58:38 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:58:38 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:58:43 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:58:43 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:58:44 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:58:44 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:58:45 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:58:45 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:58:45 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:58:50 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:58:50 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:58:50 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:58:50 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:58:51 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:58:51 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:58:52 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:58:55 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:58:55 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:58:55 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:58:56 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:58:57 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:58:57 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:58:57 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:59:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:59:00 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:59:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:59:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:59:01 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:59:01 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 18:59:01 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:59:04 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 18:59:05 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 18:59:05 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:59:05 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 18:59:05 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 18:59:05 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:59:05 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:59:10 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:59:10 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:59:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:59:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:59:11 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:59:11 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:59:11 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:59:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:59:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:59:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:59:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:59:16 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:59:16 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:59:16 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:59:20 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:59:20 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:59:20 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:59:20 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:59:21 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:59:21 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:59:21 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:59:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:59:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:59:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:59:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:59:24 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:59:25 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:59:25 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:59:27 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:59:27 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:59:27 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:59:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:59:28 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 18:59:28 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 18:59:28 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 18:59:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 18:59:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 18:59:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 18:59:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 18:59:31 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:15 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:15 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:16 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:05:19 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:05:19 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:05:20 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:05:20 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:05:20 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:20 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:20 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:20 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:05:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:05:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:05:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:05:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:05:24 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:25 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:25 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:25 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:05:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:05:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:05:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:05:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:05:29 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:29 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:29 [main] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:29 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:05:32 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 19:05:32 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 19:05:32 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:05:32 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 19:05:33 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:34 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:34 [main] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:34 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:05:36 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 19:05:36 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 19:05:37 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:05:37 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 19:05:38 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:38 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:38 [main] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:38 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:05:41 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 19:05:41 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 19:05:41 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:05:41 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 19:05:42 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:43 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:43 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:43 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:05:46 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:05:46 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:05:46 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:05:46 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:05:47 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:48 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:48 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:48 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:05:50 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:05:51 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:05:51 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:05:51 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:05:51 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:51 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:51 [main] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:51 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:05:54 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 19:05:54 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 19:05:54 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:05:55 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 19:05:55 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:55 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:55 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:55 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:05:57 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:05:57 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:05:58 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:05:58 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:05:58 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:05:58 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:05:58 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:05:58 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:06:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:06:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:06:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:06:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:06:02 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:06:02 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:06:02 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:06:02 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:06:05 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:06:05 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:06:05 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:06:05 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:06:06 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:06:06 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:06:06 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:06:06 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:06:08 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:06:09 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:06:09 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:06:09 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:06:09 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:06:09 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:06:09 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:06:09 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:06:12 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:06:13 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:06:13 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:06:13 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:06:13 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:06:13 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:06:13 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: dev
+2026-02-24 19:06:14 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:06:16 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:06:16 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:06:16 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:06:17 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:06:17 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:07:07 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:07:07 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: qa
+2026-02-24 19:07:08 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:07:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:07:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:07:11 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:07:12 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:07:12 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:07:12 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:07:12 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: qa
+2026-02-24 19:07:12 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:07:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:07:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:07:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:07:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:07:15 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:07:16 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:07:16 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: qa
+2026-02-24 19:07:16 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:07:18 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering username
+2026-02-24 19:07:18 [TestNG-PoolService-1] INFO  pages.LoginPage - Entering password
+2026-02-24 19:07:18 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:07:19 [TestNG-PoolService-1] INFO  pages.LoginPage - Login successful
+2026-02-24 19:07:19 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-02-24 19:07:19 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 19:07:19 [main] INFO  base.BaseTest - Environment: qa
+2026-02-24 19:07:19 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:07:22 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 19:07:22 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 19:07:22 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:07:22 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 19:07:23 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 19:07:24 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 19:07:24 [main] INFO  base.BaseTest - Environment: qa
+2026-02-24 19:07:24 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:07:27 [main] INFO  pages.LoginPage - Entering username
+2026-02-24 19:07:27 [main] INFO  pages.LoginPage - Entering password
+2026-02-24 19:07:27 [main] INFO  pages.LoginPage - Clicking login button
+2026-02-24 19:07:27 [main] INFO  pages.LoginPage - Login successful
+2026-02-24 19:07:28 [main] INFO  base.BaseTest - Closing browser
+2026-02-24 19:07:28 [main] INFO  base.BaseTest - Launching browser
+2026-02-24 19:07:28 [main] INFO  base.BaseTest - Environment: qa
+2026-02-24 19:07:28 [main] INFO  base.BaseTest - Browser launched successfully
+2026-02-24 19:10:29 [TestNG-PoolService-1] INFO  base.BaseTest - Launching browser
+2026-02-24 19:10:29 [TestNG-PoolService-1] INFO  base.BaseTest - Environment: qa
+2026-02-24 19:10:30 [TestNG-PoolService-1] INFO  base.BaseTest - Browser launched successfully

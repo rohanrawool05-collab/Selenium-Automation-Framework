@@ -1,5 +1,7 @@
 package listeners;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.testng.*;
 
@@ -10,6 +12,8 @@ import utils.ExtentManager;
 import utils.ScreenshotUtils;
 
 public class TestListeners implements ITestListener {
+	
+	protected static final Logger logger = LogManager.getLogger(TestListeners.class);
 
     ExtentReports extent = ExtentManager.getInstance();
 
@@ -51,7 +55,7 @@ public class TestListeners implements ITestListener {
 
 
         } catch (Exception e) {
-            e.printStackTrace();
+        	logger.error("Failed to capture screenshot", e);
         }
     }
 
@@ -59,5 +63,7 @@ public class TestListeners implements ITestListener {
     public void onFinish(ITestContext context) {
         extent.flush();
     }
+    
+    
 }
 

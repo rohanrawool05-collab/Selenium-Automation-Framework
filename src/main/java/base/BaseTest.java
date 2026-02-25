@@ -1,6 +1,8 @@
 package base;
 
 import java.time.Duration;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -23,9 +25,15 @@ public class BaseTest {
     public WebDriver getDriver() {
         return driver.get();
     }
+    
+    protected static final Logger logger = LogManager.getLogger(BaseTest.class);
 
     @BeforeMethod
     public void setup() {
+    	
+    	logger.info("Launching browser");
+    	
+    	logger.info("Environment: {}", System.getProperty("env", "dev"));
 
         String browser = PropertyUtils.getProperty("browser");
         String url = PropertyUtils.getProperty("url");
@@ -40,6 +48,8 @@ public class BaseTest {
         if (browser.equalsIgnoreCase("chrome")) {
         	
         	WebDriverManager.chromedriver().setup();
+        	
+        	logger.info("Browser launched successfully");
 
         	ChromeOptions options = new ChromeOptions();
         	
@@ -69,9 +79,13 @@ public class BaseTest {
         getDriver().manage().window().maximize();
         getDriver().get(url);
     }
+    
+   
 
     @AfterMethod
     public void tearDown() {
+    	
+    	logger.info("Closing browser");
 
         if (getDriver() != null) {
             getDriver().quit();

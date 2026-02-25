@@ -1,0 +1,8 @@
+tests\LogoutTest.class
+dataprovider\TestDataProviders.class
+tests\CompletePlacingOrderTest.class
+tests\cartTest.class
+listeners\TestListeners.class
+tests\LoginTest.class
+tests\SortValidationTest.class
+tests\CheckoutValidationTest.class
